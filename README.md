@@ -2,6 +2,7 @@
 This page provides a short guideline and ideas on how to do manager one to one meetings with direct reports.
 It can be useful for both inexperienced people managers, as well as for seasoned ones.
 
+---
 
 ## Overview and Purpose of 1-2-1 meetings:
 The purpose of 1-2-1 meetings is to make sure your direct reports are happy, motivated and doing their job to the best of their ability.
@@ -13,6 +14,7 @@ There isn't one best management style. Figure out how someone wants to be manage
  - What did you like about your previous manager? What didn't you like?
  - What do you like to see from a manager?
 
+---
 
 ## Desired Outcome:
 Every good meeting should have an outcome, than you try to achieve.
@@ -30,6 +32,7 @@ You don't have to cover each of these topics every time, but make sure you don't
 Here is a good chart of what people value in their work - you can use it as an inspiration to define expected outcomes of your 1-2-1 meetings:
 ![employee-needs](https://user-images.githubusercontent.com/3693244/205859665-9913fe7f-8b72-43b9-ab63-b6bde0d65bcf.jpg)
 
+---
 
 ## Dos
 Prepare your questions and topics in advance
@@ -39,6 +42,7 @@ Do make sure people feel comfortable to share their opinion freely and ask any q
 Do leave the other person to talk more than you. 
 Do share on your own - you can't expect only the other person to share. 
 
+---
 
 ## Don'ts:
 Don't skip the meeting without a good reason.
@@ -46,6 +50,7 @@ Don't use the 1-2-1 meeting as a status report - you should utilize the time for
 Don't steal the conversation - you should be predominently listening and asking questions.
 Don't make people wait for your 1-2-1 meeting if they have something they would like to discuss right now. Postponing the conversation can hide a potential problem.
 
+---
 
 ## Frequency:
 This can depend on the person and the situation. Some people are looking forward to frequend check-in, while others can be bothered by too frequent meetings.
@@ -53,6 +58,7 @@ Working in the same space or fully remotely can also have an affect on how frequ
 In general, start with a touch base on a weekly basis. If you feel, this is too often, extend the time to bi-weekly or even more. But don't go for more than 1 month without a 1-2-1 meeting.
 Monthly check-in is also a good idea for skip level 1-2-1s, if you have other managers reporting to you.
 
+---
 
 ## Topics and Questions:
 Try to prepare for each 1-2-1 meeting, by picking a couple of the topics / questions below.
@@ -123,7 +129,6 @@ This is why it is crucial to keep track and adjust. Finding out what motivates a
  - How productive do you feel? How can this be improved?
  - What part of your work do you feel is most undervalued?
 
-
 ### Company Vision, Plans, Strategy:
 The 1-2-1 meetings are a good time to discuss and align on company vision and plans. You can use the time to make sure your direct reports are clear on the direction the company is moving and your whole team is in agreement that this is the right way forward.
  - Are you clear on the company vision and plans?
@@ -131,8 +136,6 @@ The 1-2-1 meetings are a good time to discuss and align on company vision and pl
  - What don't you like about the product?
  - What's the biggest opportunity that we're missing out on?
  - If you were me, what are 1 to 3 things you would change?
-
-
 
 ### Getting to know new people:
  - How did you get where you are today?
@@ -149,6 +152,7 @@ The 1-2-1 meetings are a good time to discuss and align on company vision and pl
  - Tell me about your previous manager? What did you like and didn't like about working with him/her?
  - What are the 2-3 things you can't stand?
 
+---
 
 (Bonus)
 ### 1-2-1s with Managers Reporting to You:
@@ -170,6 +174,7 @@ Some example questions about how they are managing their own team:
  - Who on your team is the most helpful to others? Who needs the most help?
  - What direction are the teammbers aspiring to develop themselves?
 
+---
 
 (Bonus)
 ## Skip-level 1-2-1s:
@@ -178,7 +183,9 @@ They can be useful to provide contact with a high-level management to a broader 
 Another useful case for skip-level meetings is when you have a new manager reporting into you, and you need to make sure he is doing a good job as a manager.
 Skip-level meetings are in general less frequent than meetings with direct reports.
 
+---
 
 ## Further reading:
 https://github.com/LappleApple/awesome-leading-and-managing/blob/master/One-on-Ones.md
+
 https://github.com/charlax/engineering-management#1-1
