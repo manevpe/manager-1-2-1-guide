@@ -37,11 +37,12 @@ Make notes during or after the meeting.
 Make action plans for the next meeting. Do check in on them.
 Do make sure people feel comfortable to share their opinion freely and ask any question.
 Do leave the other person to talk more than you. 
+Do share on your own - you can't expect only the other person to share. 
 
 
 ## Don'ts:
 Don't skip the meeting without a good reason.
-The 1-2-1 meeting should not be used as a status report - you should utilize the time for more personal discusssions, and less about progress on current tasks.
+Don't use the 1-2-1 meeting as a status report - you should utilize the time for more personal discusssions, and less about progress on current tasks.
 Don't steal the conversation - you should be predominently listening and asking questions.
 Don't make people wait for your 1-2-1 meeting if they have something they would like to discuss right now. Postponing the conversation can hide a potential problem.
 
@@ -70,11 +71,11 @@ Open ended questions usually start with the 5 Ws - "What", "When", "Where", "Who
  - Who do you feel the least connected to?
 
 ### Challenges and Issues:
- - Do you currently have any challenges in your work?
- - Anything I can help you with?
- - Anything I can do to make your work easier?
+ - What challenges do you currently have in your work?
+ - What can I help you with this week?
+ - What can I do to make your work easier?
  - How do you get along with the other members in the team?
- - Anything you believe we should change?
+ - What is the top thing you believe we should change?
  - What tools and resources would help you do better?
  - How is your workload?
  - What do you need help with most often?
@@ -113,7 +114,7 @@ This is why it is crucial to keep track and adjust. Finding out what motivates a
  - Aim to clarify the big picture value and make sure the person understands the importance of their own tasks.
  - Share good news, achievements and milestones.
  - Talk about team culture - ask how they feel, what they like and don't like about the current team working culture
- - What is the one thing about our working culture that you would like to change
+ - What is the one thing about our working culture that you would like to change?
  - How much your work makes a difference for the team?
  - What is challenging you at the moment?
  - How motivated do you feel?
@@ -149,8 +150,25 @@ The 1-2-1 meetings are a good time to discuss and align on company vision and pl
  - What are the 2-3 things you can't stand?
 
 
-### 1-2-1s with Managers:
+(Bonus)
+### 1-2-1s with Managers Reporting to You:
 One on ones where the report is also a manager are typically more "business" where the focus is on strategy, team health and project alignment.
+Make sure to talk both about themself and about their team.
+Some example questions about how they are managing their own team:
+ - Who is the most important person on your team? Why?
+ - Who is the most motivated? Who is the least motivated?
+ - What motivates your team?
+ - How would you describe the working culture in your team?
+ - Tell me about the last time your team did a fun activity together outside of work?
+ - How would you rate the team motivation and happiness right now? What can be done to improve it?
+ - What could we do to improve the productivity of the team? What is the biggest obstacle?
+ - What is the last milestone / achievement your team did? How did you recognize / celebrate it?
+ - What is the workload on your team?
+ - Is there somebody who is not pulling their own weight at the moment?
+ - What are you doing to develop and grow the people on your team?
+ - How are your 1-2-1s going with each member on your team?
+ - Who on your team is the most helpful to others? Who needs the most help?
+ - What direction are the teammbers aspiring to develop themselves?
 
 
 (Bonus)
