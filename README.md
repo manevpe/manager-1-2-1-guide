@@ -65,12 +65,13 @@ Try to prepare for each 1-2-1 meeting, by picking a couple of the topics / quest
 Try to use open ended questions, that stimulate people to open up. Example - two ways of asking the same question - open and close ended:
  - (close eneded) Do you like working in the company?
  - (open ended) What do you like about working in the company?
+
 On the former question, a shy person could just answer "Yes" or "No". On the later question, they are inclined to think of something and elaborate.
 Open ended questions usually start with the 5 Ws - "What", "When", "Where", "Who", "Why" or "How".
 
 ### Build Rapport:
  - Interests and hobbies outside of work.
- - Family and private life - vacation plans, pets, children, etc. Be carefull - not everyone is ok to share details of their private life. Don't be pushy if the person is uncomfortable with a such discussion. Try to predispose them by sharing details of your own personal life.
+ - Family and private life - vacation plans, pets, children, etc. Be careful - not everyone is ok to share details of their private life. Don't be pushy if the person is uncomfortable with such a discussion. Try to predispose them by sharing details of your own personal life.
  - Tell me about an interesting thing that happened to you in the past (week).
  - What do you thing of the last / next team event?
  - Who do you feel most connected to at work?
